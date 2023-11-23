@@ -1,0 +1,16 @@
+# 你的私钥
+private_key = "0x440d58ea9c07ab873295a71f24d41f58776b3732000643178dd351c991b53e48"
+# 主网rpc
+rpc = "https://1rpc.io/holesky"
+# token
+tick = "ierc-m5"
+# 数量
+amt = 1000
+# 难度
+prefix = "0x00000"
+# mint数量
+count = 10
+# gas优先费用
+gas_tip = 5
+# 最大gas费用
+gas_max = 100
