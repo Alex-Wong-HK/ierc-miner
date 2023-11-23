@@ -22,9 +22,9 @@ https://holesky.etherscan.io/address/0xd19162560690227c8f71a21b76129e1eb05575a9
 3. 在powershell,cmd或其他命令行中输入 ./ierc_miner.exe 运行 (直接双击不能运行!!!)
 
 ```toml
-# 你的私钥
+# 你的私钥  要带0x前缀
 private_key = "0x440d58ea9c07ab873295a71f24d41f58776b3732000643178dd351c991b53e48"
-# 主网rpc
+# rpc  主网: https://1rpc.io/eth  holesky测试网: https://1rpc.io/holesky
 rpc = "https://1rpc.io/holesky"
 # token
 tick = "ierc-m5"
