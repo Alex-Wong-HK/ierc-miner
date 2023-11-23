@@ -15,7 +15,7 @@ https://holesky.etherscan.io/address/0xd19162560690227c8f71a21b76129e1eb05575a9
 
 2. 在miner程序同目录下创建config.txt文件,根据以下示例修改成你自己的配置
 
-3. 启动powershell,cmd或其他命令行 ./ierc_miner.exe 运行
+3. 在powershell,cmd或其他命令行中输入 ./ierc_miner.exe 运行 (直接双击不能运行!!!)
 
 ```toml
 # 你的私钥
