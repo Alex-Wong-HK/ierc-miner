@@ -1,4 +1,4 @@
-module ierc-miner
+module github.com/minchenzz/ierc-miner
 
 go 1.19
 
