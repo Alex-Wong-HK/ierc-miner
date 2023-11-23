@@ -1,5 +1,9 @@
 # IERC 多核挖矿程序
 
+
+[联系作者](https://twitter.com/chenmin22998595)
+
+
 生成10笔ierc-m5交易耗时2分钟 (8核cpu)
 
 ![](./img.png)
